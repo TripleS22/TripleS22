@@ -1,8 +1,5 @@
 <h2 align="left">Hi 👋! I'm Sigit Sugara, a Full Stack Web Developer from Indonesia 🇮🇩</h2>
 
-###
-
-###
 
 <img align="right" height="180" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
