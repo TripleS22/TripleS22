@@ -49,15 +49,15 @@
 
 <div align="left">
 
-<a href="https://www.linkedin.com/in/USERNAME" target="_blank">
+<a href="https://www.linkedin.com/in/sigit-sugara22" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:sugaras644@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/USERNAME" target="_blank">
+<a href="https://www.instagram.com/sugaras644" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
